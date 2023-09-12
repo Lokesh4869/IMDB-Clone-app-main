@@ -1,2 +1,6 @@
-# IMDB-Clone-app-main
-This is the coding ninja's skill test projecct . In this project I use html, css and javascript. I use some webistes already built API's to fetch data from APi
+# imdbClone
+IMDB Clone made using the OMDB API
+
+- Git Repository link: https://github.com/utkarshsingh341/imdbClone
+- Video link: https://youtu.be/anHVWdGtDqQ
+- Hosted link: https://utkarshsingh341.github.io/imdbClone/
