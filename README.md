@@ -20,4 +20,4 @@ The app has been implemented using vanilla JavaScript, and it will interact with
 IMDB Clone made using the OMDB API
 
 - Git Repository link: https://github.com/Lokesh4869/IMDB-Clone-app-main
-- Hosted link: 
+- Hosted link: https://lokesh4869.github.io/IMDB-Clone-app-main/
